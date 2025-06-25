@@ -12,4 +12,4 @@
 ⭐Translação e rotação;  
 ⭐Retas e planos;  
 ⭐Distância e ângulo;  
-⭐Coordenadas polares, cilíndricas e esféricas;
+⭐Coordenadas polares, cilíndricas e esféricas; 
