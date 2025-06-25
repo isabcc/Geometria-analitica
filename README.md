@@ -9,7 +9,7 @@
 ⭐Produto vetorial;  
 ⭐Produto misto;  
 ⭐Coordenadas cartesianas;
-⭐Translação e rotação;
+⭐Translação e rotação;  
 ⭐Retas e planos;  
 ⭐Distância e ângulo;  
 ⭐Coordenadas polares, cilíndricas e esféricas;
