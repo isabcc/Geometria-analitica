@@ -8,7 +8,7 @@
 ⭐Produto escalar;  
 ⭐Produto vetorial;  
 ⭐Produto misto;  
-⭐Coordenadas cartesianas;
+⭐Coordenadas cartesianas;  
 ⭐Translação e rotação;  
 ⭐Retas e planos;  
 ⭐Distância e ângulo;  
